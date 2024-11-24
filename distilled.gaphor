@@ -5414,6 +5414,7 @@
 <ref refid="3c28809c-aaba-11ef-82a3-ba28606445a8"/>
 <ref refid="59c41e7c-aaba-11ef-82a3-ba28606445a8"/>
 <ref refid="569417d4-aabf-11ef-8aa1-ba28606445a8"/>
+<ref refid="a1c212ec-aabf-11ef-8aa1-ba28606445a8"/>
 <ref refid="64afad84-aab9-11ef-82a3-ba28606445a8"/>
 <ref refid="692fad6e-aab9-11ef-82a3-ba28606445a8"/>
 <ref refid="d31d627a-aab9-11ef-82a3-ba28606445a8"/>
@@ -5422,6 +5423,7 @@
 <ref refid="2990b422-aaba-11ef-82a3-ba28606445a8"/>
 <ref refid="54887a02-aaba-11ef-82a3-ba28606445a8"/>
 <ref refid="68e79a5a-aabf-11ef-8aa1-ba28606445a8"/>
+<ref refid="b7d4f068-aabf-11ef-8aa1-ba28606445a8"/>
 </reflist>
 </ownedPresentation>
 </SysMLDiagram>
@@ -5775,6 +5777,11 @@
 </tail-connection>
 </DeriveReqtItem>
 <DeriveReqt id="d7c01ea8-aab9-11ef-82a3-ba28606445a8">
+<comment>
+<reflist>
+<ref refid="a1c1f302-aabf-11ef-8aa1-ba28606445a8"/>
+</reflist>
+</comment>
 <presentation>
 <reflist>
 <ref refid="d6af20f4-aab9-11ef-82a3-ba28606445a8"/>
@@ -5961,7 +5968,7 @@
 </Activity>
 <ActivityItem id="3c28809c-aaba-11ef-82a3-ba28606445a8">
 <matrix>
-<val>(1.0, 0.0, 0.0, 1.0, 876.0342700119168, 535.5)</val>
+<val>(1.0, 0.0, 0.0, 1.0, 1028.0342700119168, 428.5)</val>
 </matrix>
 <top-left>
 <val>(0.0, 0.0)</val>
@@ -5996,7 +6003,7 @@
 <val>(1.0, 0.0, 0.0, 1.0, 852.0342700119168, 361.5)</val>
 </matrix>
 <points>
-<val>[(0.0, -3.5859375), (66.0, 174.0)]</val>
+<val>[(0.0, -3.5859375), (218.0, 67.0)]</val>
 </points>
 <head-connection>
 <ref refid="35a655c4-aab9-11ef-82a3-ba28606445a8"/>
@@ -6150,6 +6157,7 @@
 <instanceSpecification>
 <reflist>
 <ref refid="82e211f6-aabf-11ef-8aa1-ba28606445a8"/>
+<ref refid="be02413e-aabf-11ef-8aa1-ba28606445a8"/>
 </reflist>
 </instanceSpecification>
 <name>
@@ -6265,6 +6273,81 @@
 <extended>
 <reflist>
 <ref refid="5693fa60-aabf-11ef-8aa1-ba28606445a8"/>
+</reflist>
+</extended>
+</InstanceSpecification>
+<Comment id="a1c1f302-aabf-11ef-8aa1-ba28606445a8">
+<annotatedElement>
+<reflist>
+<ref refid="d7c01ea8-aab9-11ef-82a3-ba28606445a8"/>
+</reflist>
+</annotatedElement>
+<appliedStereotype>
+<reflist>
+<ref refid="be02413e-aabf-11ef-8aa1-ba28606445a8"/>
+</reflist>
+</appliedStereotype>
+<body>
+<val>The satellite will perfom its second delta-V thruster burn when it detects it has reached the ordered altitude for its final orbit</val>
+</body>
+<presentation>
+<reflist>
+<ref refid="a1c212ec-aabf-11ef-8aa1-ba28606445a8"/>
+</reflist>
+</presentation>
+</Comment>
+<CommentItem id="a1c212ec-aabf-11ef-8aa1-ba28606445a8">
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 935.7214608782127, 542.5)</val>
+</matrix>
+<top-left>
+<val>(0.0, 0.0)</val>
+</top-left>
+<width>
+<val>236.55707824357455</val>
+</width>
+<height>
+<val>81.0</val>
+</height>
+<diagram>
+<ref refid="ff8df1b8-aab8-11ef-82a3-ba28606445a8"/>
+</diagram>
+<subject>
+<ref refid="a1c1f302-aabf-11ef-8aa1-ba28606445a8"/>
+</subject>
+</CommentItem>
+<CommentLineItem id="b7d4f068-aabf-11ef-8aa1-ba28606445a8">
+<diagram>
+<ref refid="ff8df1b8-aab8-11ef-82a3-ba28606445a8"/>
+</diagram>
+<horizontal>
+<val>0</val>
+</horizontal>
+<orthogonal>
+<val>0</val>
+</orthogonal>
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 1030.0, 470.0)</val>
+</matrix>
+<points>
+<val>[(-94.27853912178728, 104.16755319148933), (-267.49424058939064, -11.33867252271871)]</val>
+</points>
+<head-connection>
+<ref refid="a1c212ec-aabf-11ef-8aa1-ba28606445a8"/>
+</head-connection>
+<tail-connection>
+<ref refid="d6af20f4-aab9-11ef-82a3-ba28606445a8"/>
+</tail-connection>
+</CommentLineItem>
+<InstanceSpecification id="be02413e-aabf-11ef-8aa1-ba28606445a8">
+<classifier>
+<reflist>
+<ref refid="789c1872-aabf-11ef-8aa1-ba28606445a8"/>
+</reflist>
+</classifier>
+<extended>
+<reflist>
+<ref refid="a1c1f302-aabf-11ef-8aa1-ba28606445a8"/>
 </reflist>
 </extended>
 </InstanceSpecification>
