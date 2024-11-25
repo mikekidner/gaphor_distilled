@@ -10,4 +10,4 @@ This repo is intended to show how the model from the well known refererence "SYS
 ## Contributing
 Currently the model is far from complete and so plenty of help is required to implement sections.
 See the diagram index diagram for which diagrams exist.
-![000_Diagram_Index](https://github.com/user-attachments/assets/7bf86dac-5798-4c7b-8d56-56acb778e9d7)
+![000_Diagram_Index](https://github.com/user-attachments/assets/09aed2bc-19d4-4c82-a185-eca38420a496)
