@@ -16595,6 +16595,10 @@
 <ref refid="859e18a2-aae4-11ef-9dce-ba28606445a8"/>
 <ref refid="0bdfe160-aae6-11ef-9dce-ba28606445a8"/>
 <ref refid="0f0a6888-aae6-11ef-9dce-ba28606445a8"/>
+<ref refid="c23e0a32-aaef-11ef-9dce-ba28606445a8"/>
+<ref refid="c46d06be-aaef-11ef-9dce-ba28606445a8"/>
+<ref refid="d063b1c0-aaef-11ef-9dce-ba28606445a8"/>
+<ref refid="d18d547a-aaef-11ef-9dce-ba28606445a8"/>
 <ref refid="435cee66-aae2-11ef-9dce-ba28606445a8"/>
 <ref refid="5b16192e-aae2-11ef-9dce-ba28606445a8"/>
 <ref refid="706856de-aae2-11ef-9dce-ba28606445a8"/>
@@ -16611,6 +16615,8 @@
 <ref refid="351214e2-aae4-11ef-9dce-ba28606445a8"/>
 <ref refid="5efc182a-aae4-11ef-9dce-ba28606445a8"/>
 <ref refid="15aab83c-aae6-11ef-9dce-ba28606445a8"/>
+<ref refid="cae9d580-aaef-11ef-9dce-ba28606445a8"/>
+<ref refid="d8610080-aaef-11ef-9dce-ba28606445a8"/>
 </reflist>
 </ownedPresentation>
 </Diagram>
@@ -16752,7 +16758,7 @@
 </CommentLineItem>
 <DiagramItem id="66f78278-aae2-11ef-9dce-ba28606445a8">
 <matrix>
-<val>(1.0, 0.0, 0.0, 1.0, 130.0825641832457, 962.75390625)</val>
+<val>(1.0, 0.0, 0.0, 1.0, 128.80912668324578, 1411.172862071637)</val>
 </matrix>
 <top-left>
 <val>(0.0, 0.0)</val>
@@ -16787,7 +16793,7 @@
 </Comment>
 <CommentItem id="6a379fc2-aae2-11ef-9dce-ba28606445a8">
 <matrix>
-<val>(1.0, 0.0, 0.0, 1.0, 95.0825641832457, 892.75390625)</val>
+<val>(1.0, 0.0, 0.0, 1.0, 93.80912668324578, 1341.172862071637)</val>
 </matrix>
 <top-left>
 <val>(0.0, 0.0)</val>
@@ -16816,10 +16822,10 @@
 <val>0</val>
 </orthogonal>
 <matrix>
-<val>(1.0, 0.0, 0.0, 1.0, 42.2890625, 1000.75390625)</val>
+<val>(1.0, 0.0, 0.0, 1.0, 39.586936733163725, 1449.172862071637)</val>
 </matrix>
 <points>
-<val>[(102.7935016832457, -58.0), (102.7935016832457, -38.0)]</val>
+<val>[(104.22218995008194, -58.0), (104.22218995008194, -38.0)]</val>
 </points>
 <head-connection>
 <ref refid="6a379fc2-aae2-11ef-9dce-ba28606445a8"/>
@@ -17640,7 +17646,7 @@
 </CommentLineItem>
 <DiagramItem id="2eba4042-aae4-11ef-9dce-ba28606445a8">
 <matrix>
-<val>(1.0, 0.0, 0.0, 1.0, 497.0146421667746, 962.75390625)</val>
+<val>(1.0, 0.0, 0.0, 1.0, 491.0373824479555, 1411.172862071637)</val>
 </matrix>
 <top-left>
 <val>(0.0, 0.0)</val>
@@ -17675,7 +17681,7 @@
 </Comment>
 <CommentItem id="30398108-aae4-11ef-9dce-ba28606445a8">
 <matrix>
-<val>(1.0, 0.0, 0.0, 1.0, 462.0146421667746, 892.75390625)</val>
+<val>(1.0, 0.0, 0.0, 1.0, 456.0373824479554, 1341.172862071637)</val>
 </matrix>
 <top-left>
 <val>(0.0, 0.0)</val>
@@ -17704,10 +17710,10 @@
 <val>0</val>
 </orthogonal>
 <matrix>
-<val>(1.0, 0.0, 0.0, 1.0, 538.550046589058, 940.8179942547248)</val>
+<val>(1.0, 0.0, 0.0, 1.0, 534.7255456098759, 1389.2369500763616)</val>
 </matrix>
 <points>
-<val>[(-30.940423416774593, 1.9359119952752053), (-28.736811262845777, 21.935911995275205)]</val>
+<val>[(-33.09318215641173, 1.9359119952752053), (-30.889570002482913, 21.935911995275205)]</val>
 </points>
 <head-connection>
 <ref refid="30398108-aae4-11ef-9dce-ba28606445a8"/>
@@ -17718,7 +17724,7 @@
 </CommentLineItem>
 <DiagramItem id="56c5471c-aae4-11ef-9dce-ba28606445a8">
 <matrix>
-<val>(1.0, 0.0, 0.0, 1.0, 130.0825641832457, 1219.2949909859722)</val>
+<val>(1.0, 0.0, 0.0, 1.0, 128.80912668324578, 1667.713946807609)</val>
 </matrix>
 <top-left>
 <val>(0.0, 0.0)</val>
@@ -17753,7 +17759,7 @@
 </Comment>
 <CommentItem id="5819b382-aae4-11ef-9dce-ba28606445a8">
 <matrix>
-<val>(1.0, 0.0, 0.0, 1.0, 95.0825641832457, 1131.0591218983989)</val>
+<val>(1.0, 0.0, 0.0, 1.0, 93.80912668324578, 1579.4780777200358)</val>
 </matrix>
 <top-left>
 <val>(0.0, 0.0)</val>
@@ -17782,10 +17788,10 @@
 <val>0</val>
 </orthogonal>
 <matrix>
-<val>(1.0, 0.0, 0.0, 1.0, 173.7901985449882, 1167.2206585579406)</val>
+<val>(1.0, 0.0, 0.0, 1.0, 172.03745472954535, 1615.6396143795776)</val>
 </matrix>
 <points>
-<val>[(-30.365921438576436, 13.838463340458247), (-31.84541897823385, 52.07433242803154)]</val>
+<val>[(-29.88661512313348, 13.838463340458247), (-31.366112662790925, 52.07433242803154)]</val>
 </points>
 <head-connection>
 <ref refid="5819b382-aae4-11ef-9dce-ba28606445a8"/>
@@ -18186,6 +18192,11 @@
 </region>
 </StateMachine>
 <SysMLDiagram id="841109b2-aaea-11ef-9dce-ba28606445a8">
+<comment>
+<reflist>
+<ref refid="c46cf3ea-aaef-11ef-9dce-ba28606445a8"/>
+</reflist>
+</comment>
 <diagramType>
 <val>stm</val>
 </diagramType>
@@ -18201,11 +18212,17 @@
 <ref refid="c04a943e-aaea-11ef-9dce-ba28606445a8"/>
 <ref refid="de3f4e12-aaea-11ef-9dce-ba28606445a8"/>
 <ref refid="ead06f26-aaea-11ef-9dce-ba28606445a8"/>
+<ref refid="a522cc44-aaef-11ef-9dce-ba28606445a8"/>
 <ref refid="eeb2cf26-aaea-11ef-9dce-ba28606445a8"/>
 <ref refid="f16ddb2a-aaea-11ef-9dce-ba28606445a8"/>
 <ref refid="f406ef70-aaea-11ef-9dce-ba28606445a8"/>
 </reflist>
 </ownedPresentation>
+<presentation>
+<reflist>
+<ref refid="c23e0a32-aaef-11ef-9dce-ba28606445a8"/>
+</reflist>
+</presentation>
 </SysMLDiagram>
 <State id="b76529e2-aaea-11ef-9dce-ba28606445a8">
 <container>
@@ -18580,6 +18597,11 @@
 </package>
 </Activity>
 <SysMLDiagram id="540bbd78-aaec-11ef-9dce-ba28606445a8">
+<comment>
+<reflist>
+<ref refid="d18d4502-aaef-11ef-9dce-ba28606445a8"/>
+</reflist>
+</comment>
 <diagramType>
 <val>stm</val>
 </diagramType>
@@ -18607,6 +18629,11 @@
 <ref refid="c997606e-aaed-11ef-9dce-ba28606445a8"/>
 </reflist>
 </ownedPresentation>
+<presentation>
+<reflist>
+<ref refid="d063b1c0-aaef-11ef-9dce-ba28606445a8"/>
+</reflist>
+</presentation>
 </SysMLDiagram>
 <State id="80d2ff60-aaec-11ef-9dce-ba28606445a8">
 <container>
@@ -19310,4 +19337,190 @@
 <ref refid="0b1eeb24-aaee-11ef-9dce-ba28606445a8"/>
 </subject>
 </CommentItem>
+<Comment id="a522ab92-aaef-11ef-9dce-ba28606445a8">
+<body>
+<val>Fig 8.2</val>
+</body>
+<presentation>
+<reflist>
+<ref refid="a522cc44-aaef-11ef-9dce-ba28606445a8"/>
+</reflist>
+</presentation>
+</Comment>
+<CommentItem id="a522cc44-aaef-11ef-9dce-ba28606445a8">
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, -123.00102793698899, 237.36456617123616)</val>
+</matrix>
+<top-left>
+<val>(0.0, 0.0)</val>
+</top-left>
+<width>
+<val>100.0</val>
+</width>
+<height>
+<val>50.0</val>
+</height>
+<diagram>
+<ref refid="841109b2-aaea-11ef-9dce-ba28606445a8"/>
+</diagram>
+<subject>
+<ref refid="a522ab92-aaef-11ef-9dce-ba28606445a8"/>
+</subject>
+</CommentItem>
+<DiagramItem id="c23e0a32-aaef-11ef-9dce-ba28606445a8">
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 288.56377142092396, 1185.9984486683)</val>
+</matrix>
+<top-left>
+<val>(0.0, 0.0)</val>
+</top-left>
+<width>
+<val>30.0</val>
+</width>
+<height>
+<val>30.0</val>
+</height>
+<diagram>
+<ref refid="192c564a-aae2-11ef-9dce-ba28606445a8"/>
+</diagram>
+<subject>
+<ref refid="841109b2-aaea-11ef-9dce-ba28606445a8"/>
+</subject>
+</DiagramItem>
+<Comment id="c46cf3ea-aaef-11ef-9dce-ba28606445a8">
+<annotatedElement>
+<reflist>
+<ref refid="841109b2-aaea-11ef-9dce-ba28606445a8"/>
+</reflist>
+</annotatedElement>
+<body>
+<val>Fig 8.2</val>
+</body>
+<presentation>
+<reflist>
+<ref refid="c46d06be-aaef-11ef-9dce-ba28606445a8"/>
+</reflist>
+</presentation>
+</Comment>
+<CommentItem id="c46d06be-aaef-11ef-9dce-ba28606445a8">
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 253.56377142092404, 1099.632800748602)</val>
+</matrix>
+<top-left>
+<val>(0.0, 0.0)</val>
+</top-left>
+<width>
+<val>100.0</val>
+</width>
+<height>
+<val>50.0</val>
+</height>
+<diagram>
+<ref refid="192c564a-aae2-11ef-9dce-ba28606445a8"/>
+</diagram>
+<subject>
+<ref refid="c46cf3ea-aaef-11ef-9dce-ba28606445a8"/>
+</subject>
+</CommentItem>
+<CommentLineItem id="cae9d580-aaef-11ef-9dce-ba28606445a8">
+<diagram>
+<ref refid="192c564a-aae2-11ef-9dce-ba28606445a8"/>
+</diagram>
+<horizontal>
+<val>0</val>
+</horizontal>
+<orthogonal>
+<val>0</val>
+</orthogonal>
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 297.8198152811576, 1144.7161092293686)</val>
+</matrix>
+<points>
+<val>[(0.0, 4.916691519233382), (0.0, 41.28233943893133)]</val>
+</points>
+<head-connection>
+<ref refid="c46d06be-aaef-11ef-9dce-ba28606445a8"/>
+</head-connection>
+<tail-connection>
+<ref refid="c23e0a32-aaef-11ef-9dce-ba28606445a8"/>
+</tail-connection>
+</CommentLineItem>
+<DiagramItem id="d063b1c0-aaef-11ef-9dce-ba28606445a8">
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 482.7318227218025, 1210.433249651528)</val>
+</matrix>
+<top-left>
+<val>(0.0, 0.0)</val>
+</top-left>
+<width>
+<val>30.0</val>
+</width>
+<height>
+<val>30.0</val>
+</height>
+<diagram>
+<ref refid="192c564a-aae2-11ef-9dce-ba28606445a8"/>
+</diagram>
+<subject>
+<ref refid="540bbd78-aaec-11ef-9dce-ba28606445a8"/>
+</subject>
+</DiagramItem>
+<Comment id="d18d4502-aaef-11ef-9dce-ba28606445a8">
+<annotatedElement>
+<reflist>
+<ref refid="540bbd78-aaec-11ef-9dce-ba28606445a8"/>
+</reflist>
+</annotatedElement>
+<body>
+<val>kFig 8.3</val>
+</body>
+<presentation>
+<reflist>
+<ref refid="d18d547a-aaef-11ef-9dce-ba28606445a8"/>
+</reflist>
+</presentation>
+</Comment>
+<CommentItem id="d18d547a-aaef-11ef-9dce-ba28606445a8">
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 441.03738244795545, 1099.632800748602)</val>
+</matrix>
+<top-left>
+<val>(0.0, 0.0)</val>
+</top-left>
+<width>
+<val>100.0</val>
+</width>
+<height>
+<val>50.0</val>
+</height>
+<diagram>
+<ref refid="192c564a-aae2-11ef-9dce-ba28606445a8"/>
+</diagram>
+<subject>
+<ref refid="d18d4502-aaef-11ef-9dce-ba28606445a8"/>
+</subject>
+</CommentItem>
+<CommentLineItem id="d8610080-aaef-11ef-9dce-ba28606445a8">
+<diagram>
+<ref refid="192c564a-aae2-11ef-9dce-ba28606445a8"/>
+</diagram>
+<horizontal>
+<val>0</val>
+</horizontal>
+<orthogonal>
+<val>0</val>
+</orthogonal>
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 496.93776107121084, 1210.46260076382)</val>
+</matrix>
+<points>
+<val>[(0.0, -0.029351112292033577), (0.0, -60.8298000152181)]</val>
+</points>
+<head-connection>
+<ref refid="d063b1c0-aaef-11ef-9dce-ba28606445a8"/>
+</head-connection>
+<tail-connection>
+<ref refid="d18d547a-aaef-11ef-9dce-ba28606445a8"/>
+</tail-connection>
+</CommentLineItem>
 </gaphor>
