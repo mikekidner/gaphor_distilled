@@ -16909,6 +16909,9 @@
 <ref refid="11c0397e-ac29-11ef-bcee-ba28606445a8"/>
 <ref refid="214e214e-ac29-11ef-bcee-ba28606445a8"/>
 <ref refid="32952664-ac29-11ef-bcee-ba28606445a8"/>
+<ref refid="c05be474-ac29-11ef-bcee-ba28606445a8"/>
+<ref refid="0ef262d4-ac2a-11ef-bcee-ba28606445a8"/>
+<ref refid="3383c5ac-ac2a-11ef-bcee-ba28606445a8"/>
 <ref refid="435cee66-aae2-11ef-9dce-ba28606445a8"/>
 <ref refid="5b16192e-aae2-11ef-9dce-ba28606445a8"/>
 <ref refid="706856de-aae2-11ef-9dce-ba28606445a8"/>
@@ -16947,7 +16950,7 @@
 </Diagram>
 <DiagramItem id="36bef230-aae2-11ef-9dce-ba28606445a8">
 <matrix>
-<val>(1.0, 0.0, 0.0, 1.0, 1933.851742003965, 412.3032574710149)</val>
+<val>(1.0, 0.0, 0.0, 1.0, 3098.1783044880735, 439.9838747209954)</val>
 </matrix>
 <top-left>
 <val>(0.0, 0.0)</val>
@@ -16982,7 +16985,7 @@
 </Comment>
 <CommentItem id="3be9c550-aae2-11ef-9dce-ba28606445a8">
 <matrix>
-<val>(1.0, 0.0, 0.0, 1.0, 1909.632992003965, 342.99999999999994)</val>
+<val>(1.0, 0.0, 0.0, 1.0, 3073.9595544880735, 368.0000000000001)</val>
 </matrix>
 <top-left>
 <val>(0.0, 0.0)</val>
@@ -17011,10 +17014,10 @@
 <val>0</val>
 </orthogonal>
 <matrix>
-<val>(1.0, 0.0, 0.0, 1.0, 1844.632992003965, 431.9765625000002)</val>
+<val>(1.0, 0.0, 0.0, 1.0, 3008.9595544880735, 459.65717974998074)</val>
 </matrix>
 <points>
-<val>[(104.21875, -38.976562500000284), (104.21875, -19.67330502898534)]</val>
+<val>[(104.21875, -41.65717974998063), (104.21875000000045, -19.67330502898534)]</val>
 </points>
 <head-connection>
 <ref refid="3be9c550-aae2-11ef-9dce-ba28606445a8"/>
@@ -17211,7 +17214,7 @@
 </DiagramItem>
 <DiagramItem id="eaeb1a4a-aae2-11ef-9dce-ba28606445a8">
 <matrix>
-<val>(1.0, 0.0, 0.0, 1.0, 1786.0621334733419, 412.303257471015)</val>
+<val>(1.0, 0.0, 0.0, 1.0, 2950.3886959574506, 439.9838747209955)</val>
 </matrix>
 <top-left>
 <val>(0.0, 0.0)</val>
@@ -17246,7 +17249,7 @@
 </Comment>
 <CommentItem id="ed07fdd4-aae2-11ef-9dce-ba28606445a8">
 <matrix>
-<val>(1.0, 0.0, 0.0, 1.0, 1752.953304503965, 342.99999999999994)</val>
+<val>(1.0, 0.0, 0.0, 1.0, 2917.2798669880744, 368.0000000000001)</val>
 </matrix>
 <top-left>
 <val>(0.0, 0.0)</val>
@@ -17275,10 +17278,10 @@
 <val>0</val>
 </orthogonal>
 <matrix>
-<val>(1.0, 0.0, 0.0, 1.0, 1799.586117003965, 373.73046874999994)</val>
+<val>(1.0, 0.0, 0.0, 1.0, 2963.9126794880735, 401.41108599998046)</val>
 </matrix>
 <points>
-<val>[(1.4760164693772495, 19.26953125), (1.4760164693771003, 38.572788721015)]</val>
+<val>[(1.476016469377555, 16.588914000019656), (1.4760164693766455, 38.572788721015)]</val>
 </points>
 <head-connection>
 <ref refid="ed07fdd4-aae2-11ef-9dce-ba28606445a8"/>
@@ -17289,7 +17292,7 @@
 </CommentLineItem>
 <DiagramItem id="197af4b6-aae3-11ef-9dce-ba28606445a8">
 <matrix>
-<val>(1.0, 0.0, 0.0, 1.0, 1634.8243982539648, 412.303257471015)</val>
+<val>(1.0, 0.0, 0.0, 1.0, 2799.1509607380735, 439.9838747209955)</val>
 </matrix>
 <top-left>
 <val>(0.0, 0.0)</val>
@@ -17319,7 +17322,7 @@
 </Comment>
 <CommentItem id="1e449e98-aae3-11ef-9dce-ba28606445a8">
 <matrix>
-<val>(1.0, 0.0, 0.0, 1.0, 1599.824398253965, 342.99999999999994)</val>
+<val>(1.0, 0.0, 0.0, 1.0, 2764.1509607380735, 368.0000000000001)</val>
 </matrix>
 <top-left>
 <val>(0.0, 0.0)</val>
@@ -17348,10 +17351,10 @@
 <val>0</val>
 </orthogonal>
 <matrix>
-<val>(1.0, 0.0, 0.0, 1.0, 1650.078304503965, 391.8593750000003)</val>
+<val>(1.0, 0.0, 0.0, 1.0, 2814.4048669880735, 419.5399922499808)</val>
 </matrix>
 <points>
-<val>[(-0.2539062500001137, 1.1406249999997726), (-0.25390625, 20.443882471014604)]</val>
+<val>[(-0.2539062500001137, 1.1406249999997726), (-0.25390625000045475, 20.443882471014604)]</val>
 </points>
 <tail-connection>
 <ref refid="197af4b6-aae3-11ef-9dce-ba28606445a8"/>
@@ -17437,7 +17440,7 @@
 </CommentLineItem>
 <DiagramItem id="3e04391e-aae3-11ef-9dce-ba28606445a8">
 <matrix>
-<val>(1.0, 0.0, 0.0, 1.0, 1368.3787911150935, 417.99999999999994)</val>
+<val>(1.0, 0.0, 0.0, 1.0, 2526.5653577206085, 445.68061724998046)</val>
 </matrix>
 <top-left>
 <val>(0.0, 0.0)</val>
@@ -17472,7 +17475,7 @@
 </Comment>
 <CommentItem id="40a6a62a-aae3-11ef-9dce-ba28606445a8">
 <matrix>
-<val>(1.0, 0.0, 0.0, 1.0, 1333.3787911150935, 342.99999999999994)</val>
+<val>(1.0, 0.0, 0.0, 1.0, 2506.5653577206103, 368.0000000000001)</val>
 </matrix>
 <top-left>
 <val>(0.0, 0.0)</val>
@@ -17501,10 +17504,10 @@
 <val>0</val>
 </orthogonal>
 <matrix>
-<val>(1.0, 0.0, 0.0, 1.0, 1376.9752803222225, 432.17968750000006)</val>
+<val>(1.0, 0.0, 0.0, 1.0, 2550.1618469277364, 459.86030474998057)</val>
 </matrix>
 <points>
-<val>[(6.403510792870804, -14.179687500000114), (6.403510792870975, -39.179687500000114)]</val>
+<val>[(-8.596489207127888, -14.179687500000114), (6.403510792873931, -41.86030474998046)]</val>
 </points>
 <head-connection>
 <ref refid="3e04391e-aae3-11ef-9dce-ba28606445a8"/>
@@ -17515,7 +17518,7 @@
 </CommentLineItem>
 <DiagramItem id="5070090c-aae3-11ef-9dce-ba28606445a8">
 <matrix>
-<val>(1.0, 0.0, 0.0, 1.0, 1493.5846380112032, 412.303257471015)</val>
+<val>(1.0, 0.0, 0.0, 1.0, 2656.5653577206085, 439.9838747209955)</val>
 </matrix>
 <top-left>
 <val>(0.0, 0.0)</val>
@@ -17550,7 +17553,7 @@
 </Comment>
 <CommentItem id="5b55c76c-aae3-11ef-9dce-ba28606445a8">
 <matrix>
-<val>(1.0, 0.0, 0.0, 1.0, 1458.5846380112032, 342.99999999999994)</val>
+<val>(1.0, 0.0, 0.0, 1.0, 2622.9112004953117, 368.0000000000001)</val>
 </matrix>
 <top-left>
 <val>(0.0, 0.0)</val>
@@ -17579,10 +17582,10 @@
 <val>0</val>
 </orthogonal>
 <matrix>
-<val>(1.0, 0.0, 0.0, 1.0, 1501.7210453493592, 370.97672988792374)</val>
+<val>(1.0, 0.0, 0.0, 1.0, 2666.047607833468, 398.65734713790425)</val>
 </matrix>
 <points>
-<val>[(4.60168123996641, 22.023270112076204), (4.601681239966183, 41.326527583091206)]</val>
+<val>[(4.601681239966183, 19.34265286209586), (3.2558384652625136, 41.326527583091206)]</val>
 </points>
 <head-connection>
 <ref refid="5b55c76c-aae3-11ef-9dce-ba28606445a8"/>
@@ -17593,7 +17596,7 @@
 </CommentLineItem>
 <DiagramItem id="663d85fc-aae3-11ef-9dce-ba28606445a8">
 <matrix>
-<val>(1.0, 0.0, 0.0, 1.0, 1244.0489303009797, 412.303257471015)</val>
+<val>(1.0, 0.0, 0.0, 1.0, 2409.6534191779806, 439.9838747209955)</val>
 </matrix>
 <top-left>
 <val>(0.0, 0.0)</val>
@@ -17628,7 +17631,7 @@
 </Comment>
 <CommentItem id="67fb2f3e-aae3-11ef-9dce-ba28606445a8">
 <matrix>
-<val>(1.0, 0.0, 0.0, 1.0, 1209.04893030098, 342.99999999999994)</val>
+<val>(1.0, 0.0, 0.0, 1.0, 2373.375492785088, 368.0000000000001)</val>
 </matrix>
 <top-left>
 <val>(0.0, 0.0)</val>
@@ -17657,10 +17660,10 @@
 <val>0</val>
 </orthogonal>
 <matrix>
-<val>(1.0, 0.0, 0.0, 1.0, 1079.3396299695519, 290.16561955921895)</val>
+<val>(1.0, 0.0, 0.0, 1.0, 2243.666192453659, 317.84623680919947)</val>
 </matrix>
 <points>
-<val>[(179.70930033142804, 102.83438044078093), (180.2093003314279, 122.13763791179605)]</val>
+<val>[(179.7093003314294, 100.15376319080065), (181.48722672432177, 122.13763791179605)]</val>
 </points>
 <head-connection>
 <ref refid="67fb2f3e-aae3-11ef-9dce-ba28606445a8"/>
@@ -18426,7 +18429,7 @@
 </CommentLineItem>
 <DiagramItem id="0bdfe160-aae6-11ef-9dce-ba28606445a8">
 <matrix>
-<val>(1.0, 0.0, 0.0, 1.0, 1125.6605699527092, 412.303257471015)</val>
+<val>(1.0, 0.0, 0.0, 1.0, 2290.870090496525, 439.9838747209955)</val>
 </matrix>
 <top-left>
 <val>(0.0, 0.0)</val>
@@ -18461,7 +18464,7 @@
 </Comment>
 <CommentItem id="0f0a6888-aae6-11ef-9dce-ba28606445a8">
 <matrix>
-<val>(1.0, 0.0, 0.0, 1.0, 1090.6605699527092, 342.99999999999994)</val>
+<val>(1.0, 0.0, 0.0, 1.0, 2254.871516477287, 368.0000000000001)</val>
 </matrix>
 <top-left>
 <val>(0.0, 0.0)</val>
@@ -18490,10 +18493,10 @@
 <val>0</val>
 </orthogonal>
 <matrix>
-<val>(1.0, 0.0, 0.0, 1.0, 1141.2913988361486, 378.17973610282763)</val>
+<val>(1.0, 0.0, 0.0, 1.0, 2300.983939778296, 405.86035335280815)</val>
 </matrix>
 <points>
-<val>[(-4.899418800773674, 14.82026389717231), (-4.8994188007734465, 34.12352136818737)]</val>
+<val>[(-0.3810132183434689, 12.139646647191967), (0.6175608008943527, 34.12352136818737)]</val>
 </points>
 <head-connection>
 <ref refid="0f0a6888-aae6-11ef-9dce-ba28606445a8"/>
@@ -22665,7 +22668,7 @@ A sample IBD</val>
 <val>(1.0, 0.0, 0.0, 1.0, -142.30638792578088, 103.30257346614076)</val>
 </matrix>
 <points>
-<val>[(0.0, 0.0), (2180.0, 0.0)]</val>
+<val>[(0.0, 0.0), (3297.8632248343247, 0.0)]</val>
 </points>
 </Line>
 <Interaction id="4bdee174-ab01-11ef-9dce-ba28606445a8">
@@ -29454,6 +29457,99 @@ FIX: Parametric diagrams not implemented in Gaphor</val>
 </diagram>
 <subject>
 <ref refid="32951bb0-ac29-11ef-bcee-ba28606445a8"/>
+</subject>
+</CommentItem>
+<Comment id="c05bc8fe-ac29-11ef-bcee-ba28606445a8">
+<body>
+<val>Fig 6.7:
+FIX: needs objects nodes on diagram frame</val>
+</body>
+<presentation>
+<reflist>
+<ref refid="c05be474-ac29-11ef-bcee-ba28606445a8"/>
+</reflist>
+</presentation>
+</Comment>
+<CommentItem id="c05be474-ac29-11ef-bcee-ba28606445a8">
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 873.5976555301185, 1010.0508818141669)</val>
+</matrix>
+<top-left>
+<val>(0.0, 0.0)</val>
+</top-left>
+<width>
+<val>100.0</val>
+</width>
+<height>
+<val>98.0</val>
+</height>
+<diagram>
+<ref refid="192c564a-aae2-11ef-9dce-ba28606445a8"/>
+</diagram>
+<subject>
+<ref refid="c05bc8fe-ac29-11ef-bcee-ba28606445a8"/>
+</subject>
+</CommentItem>
+<Comment id="0ef24cae-ac2a-11ef-bcee-ba28606445a8">
+<body>
+<val>Fig 6.18:
+FIX: Needs Wait Time Action</val>
+</body>
+<presentation>
+<reflist>
+<ref refid="0ef262d4-ac2a-11ef-bcee-ba28606445a8"/>
+</reflist>
+</presentation>
+</Comment>
+<CommentItem id="0ef262d4-ac2a-11ef-bcee-ba28606445a8">
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 2367.0692444704296, 1010.0508818141668)</val>
+</matrix>
+<top-left>
+<val>(0.0, 0.0)</val>
+</top-left>
+<width>
+<val>100.0</val>
+</width>
+<height>
+<val>83.0</val>
+</height>
+<diagram>
+<ref refid="192c564a-aae2-11ef-9dce-ba28606445a8"/>
+</diagram>
+<subject>
+<ref refid="0ef24cae-ac2a-11ef-bcee-ba28606445a8"/>
+</subject>
+</CommentItem>
+<Comment id="3383a9be-ac2a-11ef-bcee-ba28606445a8">
+<body>
+<val>Fig 6.19:
+FIX: Needs Wait Time Action</val>
+</body>
+<presentation>
+<reflist>
+<ref refid="3383c5ac-ac2a-11ef-bcee-ba28606445a8"/>
+</reflist>
+</presentation>
+</Comment>
+<CommentItem id="3383c5ac-ac2a-11ef-bcee-ba28606445a8">
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 2513.9811830130566, 1010.0508818141669)</val>
+</matrix>
+<top-left>
+<val>(0.0, 0.0)</val>
+</top-left>
+<width>
+<val>100.0</val>
+</width>
+<height>
+<val>68.0</val>
+</height>
+<diagram>
+<ref refid="192c564a-aae2-11ef-9dce-ba28606445a8"/>
+</diagram>
+<subject>
+<ref refid="3383a9be-ac2a-11ef-bcee-ba28606445a8"/>
 </subject>
 </CommentItem>
 </gaphor>
