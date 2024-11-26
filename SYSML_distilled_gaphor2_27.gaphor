@@ -26156,13 +26156,11 @@ A sample IBD</val>
 <ref refid="c6cd1e1e-abc4-11ef-bcee-ba28606445a8"/>
 <ref refid="cab34c06-abc4-11ef-bcee-ba28606445a8"/>
 <ref refid="3aa03894-abc5-11ef-bcee-ba28606445a8"/>
-<ref refid="1def1584-abc6-11ef-bcee-ba28606445a8"/>
 <ref refid="daeaf5ce-abc4-11ef-bcee-ba28606445a8"/>
 <ref refid="ecac5960-abc4-11ef-bcee-ba28606445a8"/>
 <ref refid="05faf566-abc5-11ef-bcee-ba28606445a8"/>
 <ref refid="1e310d3c-abc5-11ef-bcee-ba28606445a8"/>
 <ref refid="2a501c02-abc5-11ef-bcee-ba28606445a8"/>
-<ref refid="37a6ec86-abc6-11ef-bcee-ba28606445a8"/>
 </reflist>
 </ownedPresentation>
 <presentation>
@@ -26231,7 +26229,7 @@ A sample IBD</val>
 <ref refid="daeddf00-abc4-11ef-bcee-ba28606445a8"/>
 </subject>
 <matrix>
-<val>(1.0, 0.0, 0.0, 1.0, 149.0, 185.0)</val>
+<val>(1.0, 0.0, 0.0, 1.0, 149.0, 184.6640625)</val>
 </matrix>
 <points>
 <val>[(1.0, -5.0), (357.4140625, -5.0)]</val>
@@ -26247,6 +26245,9 @@ A sample IBD</val>
 <interaction>
 <ref refid="4bdee174-ab01-11ef-9dce-ba28606445a8"/>
 </interaction>
+<messageSort>
+<val>asynchCall</val>
+</messageSort>
 <name>
 <val>measureAltitude()</val>
 </name>
@@ -26427,14 +26428,12 @@ A sample IBD</val>
 </tail-connection>
 </MessageItem>
 <Message id="1e3374f0-abc5-11ef-bcee-ba28606445a8">
-<comment>
-<reflist>
-<ref refid="1def0274-abc6-11ef-bcee-ba28606445a8"/>
-</reflist>
-</comment>
 <interaction>
 <ref refid="4bdee174-ab01-11ef-9dce-ba28606445a8"/>
 </interaction>
+<messageSort>
+<val>asynchCall</val>
+</messageSort>
 <name>
 <val>orbitRadiusUpdated()</val>
 </name>
@@ -26650,13 +26649,11 @@ A sample IBD</val>
 <ref refid="7a227b58-abc5-11ef-bcee-ba28606445a8"/>
 <ref refid="7eeb1492-abc5-11ef-bcee-ba28606445a8"/>
 <ref refid="3f3f6edc-abc6-11ef-bcee-ba28606445a8"/>
-<ref refid="65a73e4c-abc6-11ef-bcee-ba28606445a8"/>
 <ref refid="d39eea1c-abc6-11ef-bcee-ba28606445a8"/>
 <ref refid="86d2c52e-abc5-11ef-bcee-ba28606445a8"/>
 <ref refid="9a1706fe-abc5-11ef-bcee-ba28606445a8"/>
 <ref refid="511631a4-abc6-11ef-bcee-ba28606445a8"/>
 <ref refid="5808cd00-abc6-11ef-bcee-ba28606445a8"/>
-<ref refid="7476b858-abc6-11ef-bcee-ba28606445a8"/>
 <ref refid="e2c20416-abc6-11ef-bcee-ba28606445a8"/>
 </reflist>
 </ownedPresentation>
@@ -26795,64 +26792,6 @@ A sample IBD</val>
 <ref refid="7eeb1492-abc5-11ef-bcee-ba28606445a8"/>
 </tail-connection>
 </MessageItem>
-<Comment id="1def0274-abc6-11ef-bcee-ba28606445a8">
-<annotatedElement>
-<reflist>
-<ref refid="1e3374f0-abc5-11ef-bcee-ba28606445a8"/>
-</reflist>
-</annotatedElement>
-<body>
-<val>No icon for asynchrounous msg. Using synchronous mesage here</val>
-</body>
-<presentation>
-<reflist>
-<ref refid="1def1584-abc6-11ef-bcee-ba28606445a8"/>
-</reflist>
-</presentation>
-</Comment>
-<CommentItem id="1def1584-abc6-11ef-bcee-ba28606445a8">
-<matrix>
-<val>(1.0, 0.0, 0.0, 1.0, 277.0, 512.0)</val>
-</matrix>
-<top-left>
-<val>(0.0, 0.0)</val>
-</top-left>
-<width>
-<val>117.0</val>
-</width>
-<height>
-<val>98.0</val>
-</height>
-<diagram>
-<ref refid="bdef01fe-abc4-11ef-bcee-ba28606445a8"/>
-</diagram>
-<subject>
-<ref refid="1def0274-abc6-11ef-bcee-ba28606445a8"/>
-</subject>
-</CommentItem>
-<CommentLineItem id="37a6ec86-abc6-11ef-bcee-ba28606445a8">
-<diagram>
-<ref refid="bdef01fe-abc4-11ef-bcee-ba28606445a8"/>
-</diagram>
-<horizontal>
-<val>0</val>
-</horizontal>
-<orthogonal>
-<val>0</val>
-</orthogonal>
-<matrix>
-<val>(1.0, 0.0, 0.0, 1.0, 350.0, 531.0)</val>
-</matrix>
-<points>
-<val>[(14.318181818181813, -19.0), (72.0, -99.0)]</val>
-</points>
-<head-connection>
-<ref refid="1def1584-abc6-11ef-bcee-ba28606445a8"/>
-</head-connection>
-<tail-connection>
-<ref refid="1e310d3c-abc5-11ef-bcee-ba28606445a8"/>
-</tail-connection>
-</CommentLineItem>
 <Comment id="3f3f5d34-abc6-11ef-bcee-ba28606445a8">
 <body>
 <val>Fig 7.6</val>
@@ -26897,7 +26836,7 @@ A sample IBD</val>
 <ref refid="511965a4-abc6-11ef-bcee-ba28606445a8"/>
 </subject>
 <matrix>
-<val>(1.0, 0.0, 0.0, 1.0, 149.0, 191.0)</val>
+<val>(1.0, 0.0, 0.0, 1.0, 149.0, 190.4765625)</val>
 </matrix>
 <points>
 <val>[(1.0, 0.0), (314.890625, 0.0)]</val>
@@ -26910,16 +26849,14 @@ A sample IBD</val>
 </tail-connection>
 </MessageItem>
 <Message id="511965a4-abc6-11ef-bcee-ba28606445a8">
-<comment>
-<reflist>
-<ref refid="65a721dc-abc6-11ef-bcee-ba28606445a8"/>
-</reflist>
-</comment>
 <interaction>
 <ref refid="4bdee174-ab01-11ef-9dce-ba28606445a8"/>
 </interaction>
+<messageSort>
+<val>reply</val>
+</messageSort>
 <name>
-<val>call()</val>
+<val></val>
 </name>
 <presentation>
 <reflist>
@@ -26976,64 +26913,6 @@ A sample IBD</val>
 <ref refid="511965a4-abc6-11ef-bcee-ba28606445a8"/>
 </sendMessage>
 </MessageOccurrenceSpecification>
-<Comment id="65a721dc-abc6-11ef-bcee-ba28606445a8">
-<annotatedElement>
-<reflist>
-<ref refid="511965a4-abc6-11ef-bcee-ba28606445a8"/>
-</reflist>
-</annotatedElement>
-<body>
-<val>FIXME: these response lines should be dotted with open arrow heads </val>
-</body>
-<presentation>
-<reflist>
-<ref refid="65a73e4c-abc6-11ef-bcee-ba28606445a8"/>
-</reflist>
-</presentation>
-</Comment>
-<CommentItem id="65a73e4c-abc6-11ef-bcee-ba28606445a8">
-<matrix>
-<val>(1.0, 0.0, 0.0, 1.0, 341.0, 360.0)</val>
-</matrix>
-<top-left>
-<val>(0.0, 0.0)</val>
-</top-left>
-<width>
-<val>100.0</val>
-</width>
-<height>
-<val>128.0</val>
-</height>
-<diagram>
-<ref refid="706487aa-abc5-11ef-bcee-ba28606445a8"/>
-</diagram>
-<subject>
-<ref refid="65a721dc-abc6-11ef-bcee-ba28606445a8"/>
-</subject>
-</CommentItem>
-<CommentLineItem id="7476b858-abc6-11ef-bcee-ba28606445a8">
-<diagram>
-<ref refid="706487aa-abc5-11ef-bcee-ba28606445a8"/>
-</diagram>
-<horizontal>
-<val>0</val>
-</horizontal>
-<orthogonal>
-<val>0</val>
-</orthogonal>
-<matrix>
-<val>(1.0, 0.0, 0.0, 1.0, 379.0, 421.0)</val>
-</matrix>
-<points>
-<val>[(2.0, -61.0), (-10.0, -115.0)]</val>
-</points>
-<head-connection>
-<ref refid="65a73e4c-abc6-11ef-bcee-ba28606445a8"/>
-</head-connection>
-<tail-connection>
-<ref refid="5808cd00-abc6-11ef-bcee-ba28606445a8"/>
-</tail-connection>
-</CommentLineItem>
 <StateMachine id="acdaecf0-abc6-11ef-bcee-ba28606445a8">
 <name>
 <val>State Machine</val>
