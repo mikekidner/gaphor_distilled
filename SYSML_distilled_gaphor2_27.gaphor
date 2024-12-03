@@ -2033,6 +2033,8 @@ controlflow * {
 <ref refid="80d5a4b6-ab02-11ef-9dce-ba28606445a8"/>
 <ref refid="9b3194a0-ab02-11ef-9dce-ba28606445a8"/>
 <ref refid="4b464956-ab78-11ef-ad64-ba28606445a8"/>
+<ref refid="6c8f82ea-b149-11ef-83dc-ba28606445a8"/>
+<ref refid="dcae653c-b149-11ef-83dc-ba28606445a8"/>
 </reflist>
 </ownedType>
 <presentation>
@@ -2043,7 +2045,7 @@ controlflow * {
 </Package>
 <PackageItem id="ad70f27c-2f9e-11ee-a0d6-ba28606445aa">
 <matrix>
-<val>(1.0, 0.0, 0.0, 1.0, 688.2863437499999, 64.80000000000001)</val>
+<val>(1.0, 0.0, 0.0, 1.0, 689.2863437499999, 64.80000000000001)</val>
 </matrix>
 <top-left>
 <val>(0.0, 0.0)</val>
@@ -2539,6 +2541,8 @@ controlflow * {
 <ref refid="80d628fa-ab02-11ef-9dce-ba28606445a8"/>
 <ref refid="9b31de88-ab02-11ef-9dce-ba28606445a8"/>
 <ref refid="4b46e71c-ab78-11ef-ad64-ba28606445a8"/>
+<ref refid="6c90c7cc-b149-11ef-83dc-ba28606445a8"/>
+<ref refid="d74fae70-b149-11ef-83dc-ba28606445a8"/>
 <ref refid="b44150c4-aac7-11ef-8aa1-ba28606445a8"/>
 <ref refid="b96b7b60-aac7-11ef-8aa1-ba28606445a8"/>
 <ref refid="bc33cc1c-aac7-11ef-8aa1-ba28606445a8"/>
@@ -2554,6 +2558,7 @@ controlflow * {
 <ref refid="6cb720ca-aae1-11ef-9dce-ba28606445a8"/>
 <ref refid="07e6c84e-aafa-11ef-9dce-ba28606445a8"/>
 <ref refid="a1a99fb2-ab02-11ef-9dce-ba28606445a8"/>
+<ref refid="b8bc75e2-b149-11ef-83dc-ba28606445a8"/>
 </reflist>
 </ownedPresentation>
 <presentation>
@@ -15285,6 +15290,7 @@ controlflow * {
 <reflist>
 <ref refid="242e6d50-aae0-11ef-9dce-ba28606445a8"/>
 <ref refid="bbee80c6-aae0-11ef-9dce-ba28606445a8"/>
+<ref refid="d74fae70-b149-11ef-83dc-ba28606445a8"/>
 </reflist>
 </presentation>
 </ValueType>
@@ -34718,6 +34724,11 @@ FIX: Needs Wait Time Action</val>
 </subject>
 </ClassItem>
 <Stereotype id="0653eff2-b149-11ef-83dc-ba28606445a8">
+<instanceSpecification>
+<reflist>
+<ref refid="77ff7b80-b149-11ef-83dc-ba28606445a8"/>
+</reflist>
+</instanceSpecification>
 <name>
 <val>Signal</val>
 </name>
@@ -34831,4 +34842,163 @@ FIX: Needs Wait Time Action</val>
 <ref refid="0653eff2-b149-11ef-83dc-ba28606445a8"/>
 </type>
 </ExtensionEnd>
+<Block id="6c8f82ea-b149-11ef-83dc-ba28606445a8">
+<appliedStereotype>
+<reflist>
+<ref refid="77ff7b80-b149-11ef-83dc-ba28606445a8"/>
+</reflist>
+</appliedStereotype>
+<name>
+<val>Orbit Radius Updated</val>
+</name>
+<ownedAttribute>
+<reflist>
+<ref refid="dcaf0078-b149-11ef-83dc-ba28606445a8"/>
+</reflist>
+</ownedAttribute>
+<package>
+<ref refid="ad709c32-2f9e-11ee-a0d6-ba28606445aa"/>
+</package>
+<presentation>
+<reflist>
+<ref refid="6c90c7cc-b149-11ef-83dc-ba28606445a8"/>
+</reflist>
+</presentation>
+</Block>
+<BlockItem id="6c90c7cc-b149-11ef-83dc-ba28606445a8">
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, -212.62926968257977, 967.84375)</val>
+</matrix>
+<top-left>
+<val>(0.0, 0.0)</val>
+</top-left>
+<width>
+<val>167.0</val>
+</width>
+<height>
+<val>108.0</val>
+</height>
+<diagram>
+<ref refid="fe41d620-2f9f-11ee-a0d6-ba28606445aa"/>
+</diagram>
+<show_values>
+<val>1</val>
+</show_values>
+<subject>
+<ref refid="6c8f82ea-b149-11ef-83dc-ba28606445a8"/>
+</subject>
+</BlockItem>
+<InstanceSpecification id="77ff7b80-b149-11ef-83dc-ba28606445a8">
+<classifier>
+<reflist>
+<ref refid="0653eff2-b149-11ef-83dc-ba28606445a8"/>
+</reflist>
+</classifier>
+<extended>
+<reflist>
+<ref refid="6c8f82ea-b149-11ef-83dc-ba28606445a8"/>
+</reflist>
+</extended>
+</InstanceSpecification>
+<AssociationItem id="b8bc75e2-b149-11ef-83dc-ba28606445a8">
+<diagram>
+<ref refid="fe41d620-2f9f-11ee-a0d6-ba28606445aa"/>
+</diagram>
+<head_subject>
+<ref refid="dcae9570-b149-11ef-83dc-ba28606445a8"/>
+</head_subject>
+<horizontal>
+<val>0</val>
+</horizontal>
+<orthogonal>
+<val>0</val>
+</orthogonal>
+<subject>
+<ref refid="dcae653c-b149-11ef-83dc-ba28606445a8"/>
+</subject>
+<tail_subject>
+<ref refid="dcaf0078-b149-11ef-83dc-ba28606445a8"/>
+</tail_subject>
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, -114.3019670903258, 1042.9232091480167)</val>
+</matrix>
+<points>
+<val>[(-6.418419662717639, 32.92054085198333), (-7.322843994411471, 104.18225960198333)]</val>
+</points>
+<head-connection>
+<ref refid="6c90c7cc-b149-11ef-83dc-ba28606445a8"/>
+</head-connection>
+<tail-connection>
+<ref refid="d74fae70-b149-11ef-83dc-ba28606445a8"/>
+</tail-connection>
+</AssociationItem>
+<DataTypeItem id="d74fae70-b149-11ef-83dc-ba28606445a8">
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, -191.38455432783485, 1147.10546875)</val>
+</matrix>
+<top-left>
+<val>(0.0, 0.0)</val>
+</top-left>
+<width>
+<val>100.0</val>
+</width>
+<height>
+<val>70.0</val>
+</height>
+<diagram>
+<ref refid="fe41d620-2f9f-11ee-a0d6-ba28606445aa"/>
+</diagram>
+<subject>
+<ref refid="242d85ac-aae0-11ef-9dce-ba28606445a8"/>
+</subject>
+</DataTypeItem>
+<Association id="dcae653c-b149-11ef-83dc-ba28606445a8">
+<memberEnd>
+<reflist>
+<ref refid="dcae9570-b149-11ef-83dc-ba28606445a8"/>
+<ref refid="dcaf0078-b149-11ef-83dc-ba28606445a8"/>
+</reflist>
+</memberEnd>
+<ownedEnd>
+<reflist>
+<ref refid="dcae9570-b149-11ef-83dc-ba28606445a8"/>
+</reflist>
+</ownedEnd>
+<package>
+<ref refid="ad709c32-2f9e-11ee-a0d6-ba28606445aa"/>
+</package>
+<presentation>
+<reflist>
+<ref refid="b8bc75e2-b149-11ef-83dc-ba28606445a8"/>
+</reflist>
+</presentation>
+</Association>
+<Property id="dcae9570-b149-11ef-83dc-ba28606445a8">
+<association>
+<ref refid="dcae653c-b149-11ef-83dc-ba28606445a8"/>
+</association>
+<owningAssociation>
+<ref refid="dcae653c-b149-11ef-83dc-ba28606445a8"/>
+</owningAssociation>
+<type>
+<ref refid="6c8f82ea-b149-11ef-83dc-ba28606445a8"/>
+</type>
+</Property>
+<Property id="dcaf0078-b149-11ef-83dc-ba28606445a8">
+<aggregation>
+<val>composite</val>
+</aggregation>
+<association>
+<ref refid="dcae653c-b149-11ef-83dc-ba28606445a8"/>
+</association>
+<class_>
+<ref refid="6c8f82ea-b149-11ef-83dc-ba28606445a8"/>
+</class_>
+<name>
+<val>currentOrbitRadius</val>
+</name>
+<type>
+<ref refid="242d85ac-aae0-11ef-9dce-ba28606445a8"/>
+</type>
+</Property>
 </gaphor>
