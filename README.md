@@ -22,5 +22,5 @@ If you find diagrams that cannot be implemented in Gaphor, please raise an issue
 
 See the diagram index diagram for which diagrams exist.
 
-![000_Diagram_Index](https://github.com/user-attachments/assets/64ccf044-8a79-4ac3-9dd8-c9db648df074)
+![000_Diagram_Index](https://github.com/user-attachments/assets/5d1d8977-3d6f-4e0e-bce2-dea078c78212)
 
