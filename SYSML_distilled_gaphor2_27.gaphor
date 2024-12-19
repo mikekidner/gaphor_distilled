@@ -7,6 +7,9 @@
 }
 controlflow * {
     white-space: normal;
+}
+comment[body*="FIX"] {
+  background-color: skyblue;
 }</val>
 </styleSheet>
 </StyleSheet>
@@ -35717,7 +35720,7 @@ FIX: Needs Wait Time Action</val>
 </ActionItem>
 <SendSignalActionItem id="a177b432-b167-11ef-83dc-ba28606445a8">
 <matrix>
-<val>(1.0, 0.0, 0.0, 1.0, 586.7011718749999, 789.55859375)</val>
+<val>(1.0, 0.0, 0.0, 1.0, 586.701171875, 789.55859375)</val>
 </matrix>
 <top-left>
 <val>(0.0, 0.0)</val>
